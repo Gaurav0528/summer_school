@@ -1,0 +1,22 @@
+https://leetcode.com/problems/contains-duplicate-ii/solutions/61613/i-am-getting-time-limit-exceeded-as-an-error-what-does-that-mean/
+
+public class Solution {
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        for(int i = 0; i < nums.length; i++)
+        {
+            for (int j = 0; j < nums.length; j++)
+            {
+                if(i != j)
+                {
+                 if(nums[i] == nums[j])
+                 {
+                    if(Math.abs(i-j) <= k)
+                     return true;
+                 }
+                }
+            }
+        }
+    
+     return false;   
+    }
+}
