@@ -6,8 +6,7 @@ int main()
     int a = 5;
     int b = 10;
 
-    for (int i = 0; i < 5; i++)
-    {
+    for (int i = 0; i < 5; i++){
         a++;
         b++;
   
@@ -15,8 +14,7 @@ int main()
 
     int mul = a*b;
 
-    if (mul >= 100 && b < 20); 
-    {
+    if (mul >= 100 && b < 20);{
         cout << "Both conditions are true." << endl;
     }
 
