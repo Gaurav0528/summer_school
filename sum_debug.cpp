@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int calculateSum(int a, int b) {
     int sum = 0;
     for (int i = a; i <= b; i++) {
@@ -29,7 +29,7 @@ int main() {
     int sum = calculateSum(a, d);
 
     if (sum >= 100 && d < 20) {
-        std::cout << "Both conditions are true." << std::endl;
+        cout << "Both conditions are true." << std::endl;
     }
 
     return 0;
