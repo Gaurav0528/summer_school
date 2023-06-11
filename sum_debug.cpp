@@ -29,7 +29,7 @@ int main() {
     int sum = calculateSum(a, d);
 
     if (sum >= 100 && d < 20) {
-        cout << "Both conditions are true." << std::endl;
+        cout << "Both conditions are true." <<endl;
     }
 
     return 0;
