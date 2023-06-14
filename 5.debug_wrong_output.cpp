@@ -6,10 +6,10 @@ int main()
     int a = 5;
     int b = 10;
 
-    for (int i = 0; i < 5; i++){
-        a++;
-        b++;
-    }
+    // for (int i = 0; i < 5; i++){
+    //     a++;
+    //     b++;
+    // }
     
     // cout<<"a = "<<a<<" b = "<<b<<endl;;
     int mul = a*b;
