@@ -6,8 +6,7 @@ int main()
     int a = 5;
     int b = 10;
 
-    for (int i = 0; i < 5; i++)
-    {
+    for (int i = 0; i < 5; i++){
         a++;
         b++;
   
