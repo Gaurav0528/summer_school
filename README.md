@@ -2,6 +2,10 @@
  A guide for beginners for error solving
  
  PPT Link - https://www.canva.com/design/DAFlfsD5fOA/JV6f9Sg_lRushhx4gN8SmQ/view
+
+ 4.1 gfg problem link - https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&curated[]=1&sortBy=submissions
+
+ 4.2 leetcode link --> https://leetcode.com/problems/3sum/description/
  
  Online GDB compiler - https://www.onlinegdb.com/online_c++_compiler
  
