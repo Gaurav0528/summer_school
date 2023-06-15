@@ -9,9 +9,14 @@ int main()
 {
     // too long string
     char ref[20] = "This is a long string";
-    int arr[4]={1,2,3,4,5,6};
+
+    // int arr[4]={1,2,3,4,5,6};
     
-    
+    // divide by 0
+    // int a=10,b=0;
+    // int div=a/b;
+    // cout<<div;
+
     //double deletion of pointer
     //int* ptr = new int;
     //delete ptr;
